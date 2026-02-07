@@ -20,7 +20,7 @@ We’re a for-profit company, open-sourcing some tools we use.
 
 If this project helped you, consider keeping the developer caffeinated.
 
-All tips go straight to the dev.
+All support goes directly to the dev.
 
 👉 https://buy.stripe.com/6oU14pcrK20N8hJ42I5Ne01
 
