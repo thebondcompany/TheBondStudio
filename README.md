@@ -1,4 +1,4 @@
-# The Bond Studio: Audio → Video & Subtitles
+# 🔁 Audio → Video & Subtitles
 
 **Turn podcast audio into videos *or* subtitle (.srt) files — fully in your browser.**
 
@@ -85,7 +85,7 @@ Your content stays on your machine.
 ## 🧑‍💻 Quick Start
 
 ```bash
-git clone https://github.com/thebondcompany/TheBondStudio.git
-cd TheBondStudio
+git clone https://github.com/thebondcompany/Audio2Video.git
+cd Audio2Video
 npm install
 npm run dev

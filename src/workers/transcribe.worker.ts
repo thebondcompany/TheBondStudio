@@ -109,7 +109,7 @@ self.onmessage = async (e: MessageEvent<{ type: "start"; audioUrl: string; useSm
     const transcriber = await pipeline(
       "automatic-speech-recognition",
       model,
-      { device: "wasm" }
+      { quantized: true, device: "wasm" }
     );
 
     postProgress("transcribing", "Transcribing audio...", 15);

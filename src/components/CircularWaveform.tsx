@@ -97,7 +97,7 @@ export default function CircularWaveform({ audioUrl, color = "#6366f1" }: Circul
       cancelled = true;
       peaksRef.current = null;
     };
-  }, [audioUrl, color]);
+  }, [audioUrl]);
 
   useEffect(() => {
     const canvas = canvasRef.current;
