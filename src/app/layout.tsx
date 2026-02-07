@@ -13,7 +13,13 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Podcast to Video | Convert Audio to YouTube-Ready Videos",
+  title: "The Bond Studio | Convert Audio to YouTube-Ready Videos",
+  icons: {
+    icon: "/logo.png",
+    shortcut: "/logo.png",
+    apple: "/logo.png",
+  },
+
   description:
     "Transform your podcast audio into professional YouTube videos with animated waveforms and auto-generated subtitles.",
 };

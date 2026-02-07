@@ -123,7 +123,7 @@ export default function Home() {
               </div>
               <div>
                 <h1 className="text-[22px] md:text-[28px] font-semibold tracking-tight text-slate-900">
-                  Audio → Video Studio
+                  The Bond Studio
                 </h1>
                 <p className="text-[14px] font-semibold uppercase tracking-[0.05em] text-slate-500 ">
                   PODCAST TO YOUTUBE‑READY VIDEO
